@@ -28,13 +28,13 @@ A Children's Book Presentation and Sales Website<br>
 - **Book Description and Purchase:** A brief overview of the book's plot and easy access to purchase options.<br>
 
 ## Screenshots<br>
-Home Page<br>
+
 ![alt text](assets/images/Screenshot 2023-10-16 113018.png)
-Story Page<br>
+
 ![alt text](assets/images/Screenshot 2023-10-16 113642.png)
-About Us Page<br>
+
 ![alt text](assets/images/Screenshot 2023-10-16 113658.png)
-Contact Page<br>
+
 ![alt text](assets/images
 /Screenshot 2023-10-16 113711.png)<br>
 ##Video<br>
