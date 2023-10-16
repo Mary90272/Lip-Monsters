@@ -35,7 +35,8 @@ Story Page<br>
 About Us Page<br>
 ![alt text](assets/images/Screenshot 2023-10-16 113658.png)
 Contact Page<br>
-![alt text](assets/images/Screenshot 2023-10-16 113711.png)
+![alt text](assets/images
+/Screenshot 2023-10-16 113711.png)<br>
 ##Video<br>
 
 
