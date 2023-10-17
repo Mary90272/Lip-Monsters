@@ -58,10 +58,8 @@ https://github.com/Mary90272/Lip-Monsters/assets/114884929/02382aa9-dfc4-4b29-aa
 https://github.com/Mary90272/Lip-Monsters/assets/114884929/25809995-ce5d-47fe-a4a5-8cddfc747983
 
 
-## Contact<br>
 
 For inquiries, collaboration opportunities, or feedback, you can reach out to us at [lefebvre.mary90272@gmail.com](mailto:lefebvre.mary90272@gmail.com).<br>
 
-We appreciate your interest in "Lip Monsters" and look forward to finding a new owner for this captivating children's book presentation and sales website.<br>
 
 
