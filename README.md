@@ -30,7 +30,7 @@ A Children's Book Presentation and Sales Website<br>
 ## Screenshots<br>
 
 ![alt text](assets/images/Screenshot%202023-10-16%20113018.png)
-![alt_text](assets/images/Screenshot 2023-10-16 113642.png)
+![alt text](assets/images/Screenshot%202023-10-16%20113642.png)
 
 
 
