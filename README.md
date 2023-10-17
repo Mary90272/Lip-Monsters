@@ -38,6 +38,26 @@ A Children's Book Presentation and Sales Website<br>
 
 
 
+
+
+https://github.com/Mary90272/Lip-Monsters/assets/114884929/f7cdda44-ddaf-4a39-ab36-d7e83f0229bc
+
+
+https://github.com/Mary90272/Lip-Monsters/assets/114884929/827df04b-b43a-4aba-8fdc-e13c2c629ad6
+
+
+
+https://github.com/Mary90272/Lip-Monsters/assets/114884929/7ac6cf3e-f3e2-421a-a6f8-240a01603840
+
+
+
+https://github.com/Mary90272/Lip-Monsters/assets/114884929/02382aa9-dfc4-4b29-aafb-5552a616536f
+
+
+
+https://github.com/Mary90272/Lip-Monsters/assets/114884929/25809995-ce5d-47fe-a4a5-8cddfc747983
+
+
 ## Contact<br>
 
 For inquiries, collaboration opportunities, or feedback, you can reach out to us at [lefebvre.mary90272@gmail.com](mailto:lefebvre.mary90272@gmail.com).<br>
